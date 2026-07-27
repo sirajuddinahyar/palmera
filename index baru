@@ -1,0 +1,619 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Palmera Residence Kabat — Rumah American Modern Subsidi di Banyuwangi</title>
+<meta name="description" content="Rumah subsidi yang tidak terlihat seperti rumah subsidi. Rasa American Modern di Kabat, Banyuwangi — booking mulai Rp500rb, SHM per unit, cicilan mulai Rp1 jutaan/bulan.">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preconnect" href="https://images.unsplash.com" crossorigin>
+<link rel="preload" as="image" fetchpriority="high" href="https://images.unsplash.com/photo-1513584684374-8bab748fbf90?auto=format&fit=crop&w=1200&q=65">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Plus+Jakarta+Sans:wght@500;700&display=swap" rel="stylesheet">
+
+<!-- =========================================================
+     META PIXEL — ganti YOUR_PIXEL_ID dengan Pixel ID asli Anda
+     ========================================================= -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', 'YOUR_PIXEL_ID');
+fbq('track', 'PageView');
+fbq('track', 'ViewContent', {content_name:'Palmera Residence Kabat - LP', content_category:'Real Estate - Subsidized Housing'});
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=YOUR_PIXEL_ID&ev=PageView&noscript=1"/></noscript>
+
+<style>
+:root{
+  --cream:#FAF6EE; --cream-2:#F1EAD9; --forest:#1E3A2B; --palm:#4C7C5D;
+  --gold:#DDA33F; --gold-deep:#B87A1F; --ink:#20241D; --white:#FFFFFF;
+  --line: rgba(30,58,43,0.14); --shadow: 0 18px 40px -20px rgba(30,58,43,0.35);
+}
+*{box-sizing:border-box;}
+html{scroll-behavior:smooth;}
+body{ margin:0; background:var(--cream); color:var(--ink); font-family:'Plus Jakarta Sans', sans-serif; font-weight:500; font-size:16px; line-height:1.6; -webkit-font-smoothing:antialiased; }
+img{max-width:100%; display:block;}
+h1,h2,h3,h4{ font-family:'Fraunces', serif; color:var(--forest); margin:0 0 .5em 0; line-height:1.14; font-weight:500; letter-spacing:-0.01em; }
+p{margin:0 0 1em 0;}
+.container{max-width:1000px; margin:0 auto; padding:0 24px;}
+.eyebrow{ font-family:'Plus Jakarta Sans', sans-serif; font-size:12.5px; font-weight:700; letter-spacing:.14em; text-transform:uppercase; color:var(--palm); display:inline-flex; align-items:center; gap:10px; margin-bottom:12px; }
+.eyebrow::before{ content:""; width:20px; height:1.5px; background:var(--gold); display:inline-block; }
+section{padding:60px 0;}
+@media(max-width:720px){ section{padding:42px 0;} }
+.center{ max-width:600px; margin:0 auto 30px; text-align:center; }
+.center .eyebrow{ justify-content:center; } .center .eyebrow::before{ display:none; }
+
+.hl{position:relative; white-space:nowrap; display:inline-block;}
+.hl svg{ position:absolute; left:-2%; bottom:-0.06em; width:104%; height:0.5em; overflow:visible; pointer-events:none; }
+.hl svg path{ fill:none; stroke:var(--gold); stroke-width:9; stroke-linecap:round; stroke-dasharray:340; stroke-dashoffset:340; transition:stroke-dashoffset 0.9s cubic-bezier(.3,.9,.3,1); }
+.hl.in-view svg path{ stroke-dashoffset:0; }
+
+.btn{ display:inline-flex; align-items:center; justify-content:center; gap:10px; padding:15px 28px; border-radius:999px; font-weight:700; font-size:15.5px; text-decoration:none; cursor:pointer; border:none; transition:transform .18s ease, background .18s ease; font-family:'Plus Jakarta Sans', sans-serif; }
+.btn-primary{ background:var(--gold); color:var(--forest); box-shadow:0 10px 24px -8px rgba(221,163,63,0.6); }
+.btn-primary:hover{ background:var(--gold-deep); transform:translateY(-2px); }
+.btn svg{width:19px; height:19px; flex-shrink:0;}
+.btn-block{width:100%;}
+
+.topbar{ position:sticky; top:0; z-index:40; background:rgba(250,246,238,0.92); backdrop-filter:blur(8px); border-bottom:1px solid var(--line); }
+.topbar-inner{ display:flex; align-items:center; justify-content:space-between; padding:10px 24px; max-width:1000px; margin:0 auto; }
+.topbar-logo img{ height:32px; width:auto; }
+.topbar .btn{ padding:9px 18px; font-size:13.5px; background:var(--forest); color:var(--cream); }
+
+/* Hero (mega — thesis + pain + lokasi + urgency, tetap ringkas via chip/stat) */
+.hero{ position:relative; min-height:88vh; display:flex; align-items:center; color:var(--cream); overflow:hidden; padding:110px 0 70px; }
+.hero-bg{ position:absolute; inset:0; z-index:0; }
+.hero-bg img{ width:100%; height:100%; object-fit:cover; }
+.hero-bg::after{ content:""; position:absolute; inset:0; background:linear-gradient(180deg, rgba(18,32,23,0.55) 0%, rgba(18,32,23,0.74) 55%, rgba(18,32,23,0.95) 100%); }
+.hero-content{ position:relative; z-index:1; max-width:620px; }
+.hero .eyebrow{ color:var(--gold); } .hero .eyebrow::before{ background:var(--cream); }
+.hero h1{ color:var(--white); font-size:clamp(30px,4.6vw,48px); }
+.hero h1 .hl svg path{ stroke:var(--gold); }
+.hero p.lead{ color:rgba(250,246,238,0.9); font-size:17.5px; max-width:520px; margin-bottom:8px; }
+.hero p.pain{ color:rgba(250,246,238,0.68); font-size:14px; max-width:480px; margin-bottom:22px; }
+.hero-chips{ display:flex; flex-wrap:wrap; gap:10px; margin-bottom:22px; }
+.chip{ background:rgba(250,246,238,0.1); border:1px solid rgba(250,246,238,0.28); color:var(--cream); padding:9px 15px; border-radius:999px; font-size:13px; font-weight:700; }
+.chip b{ color:var(--gold); }
+.hero-stock{ max-width:360px; margin-bottom:24px; }
+.hero-stock .lbl{ display:flex; justify-content:space-between; font-size:12px; color:rgba(250,246,238,0.75); margin-bottom:6px; }
+.hero-stock .bar{ height:8px; background:rgba(250,246,238,0.16); border-radius:999px; overflow:hidden; }
+.hero-stock .fill{ height:100%; width:38%; background:linear-gradient(90deg, var(--gold-deep), var(--gold)); border-radius:999px; }
+.hero-micro{ font-size:13px; color:rgba(250,246,238,0.72); margin-top:14px; }
+
+/* Intro / Gallery — responsive infinite-loop carousel */
+.intro{ background:var(--cream-2); }
+.gallery-wrap{ position:relative; margin:0 -2px 28px; }
+.gallery-viewport{
+  overflow:hidden;
+  border-radius:20px;
+  touch-action:pan-y;
+  cursor:grab;
+  box-shadow:var(--shadow);
+}
+.gallery-viewport.is-dragging{ cursor:grabbing; }
+.gallery-track{
+  display:flex;
+  will-change:transform;
+  transform:translate3d(0,0,0);
+}
+.g-item{
+  position:relative;
+  flex:0 0 100%;
+  min-width:0;
+  aspect-ratio:16/9;
+  overflow:hidden;
+  background:#dfe5dc;
+}
+.g-item img{
+  width:100%;
+  height:100%;
+  object-fit:cover;
+  user-select:none;
+  -webkit-user-drag:none;
+}
+.g-cap{
+  position:absolute;
+  left:0;
+  right:0;
+  bottom:0;
+  background:linear-gradient(0deg, rgba(18,32,23,0.88), rgba(18,32,23,0.05) 85%);
+  color:var(--cream);
+  padding:42px 22px 18px;
+  font-size:14px;
+  font-weight:700;
+}
+.gallery-arrow{
+  position:absolute;
+  top:50%;
+  transform:translateY(-50%);
+  z-index:3;
+  width:44px;
+  height:44px;
+  border:1px solid rgba(255,255,255,.55);
+  border-radius:50%;
+  background:rgba(18,32,23,.62);
+  color:#fff;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  cursor:pointer;
+  backdrop-filter:blur(5px);
+  transition:transform .18s ease, background .18s ease;
+}
+.gallery-arrow:hover{ background:rgba(18,32,23,.82); }
+.gallery-arrow:active{ transform:translateY(-50%) scale(.95); }
+.gallery-arrow.prev{ left:14px; }
+.gallery-arrow.next{ right:14px; }
+.gallery-arrow svg{ width:20px; height:20px; }
+.gallery-dots{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  gap:7px;
+  margin-top:14px;
+}
+.gallery-dot{
+  width:7px;
+  height:7px;
+  padding:0;
+  border:0;
+  border-radius:50%;
+  background:rgba(30,58,43,.25);
+  cursor:pointer;
+  transition:width .2s ease, background .2s ease;
+}
+.gallery-dot.active{
+  width:22px;
+  border-radius:999px;
+  background:var(--gold);
+}
+.gallery-counter{
+  position:absolute;
+  right:14px;
+  top:14px;
+  z-index:3;
+  background:rgba(18,32,23,.62);
+  color:#fff;
+  padding:5px 10px;
+  border-radius:999px;
+  font-size:11px;
+  font-weight:700;
+  backdrop-filter:blur(5px);
+}
+@media(max-width:640px){
+  .gallery-wrap{ margin-left:-4px; margin-right:-4px; }
+  .gallery-arrow{ width:38px; height:38px; }
+  .gallery-arrow.prev{ left:10px; }
+  .gallery-arrow.next{ right:10px; }
+  .g-item{ aspect-ratio:4/3; }
+  .g-cap{ padding:40px 16px 14px; font-size:12.5px; }
+}
+.chip-cloud{ display:flex; flex-wrap:wrap; justify-content:center; gap:9px; }
+.chip-cloud .chip{ background:var(--white); color:var(--forest); border-color:var(--line); }
+.legal-note{ text-align:center; font-size:12.5px; color:#6b7568; margin-top:16px; max-width:480px; margin-left:auto; margin-right:auto; }
+
+/* Pricing */
+.pricing{ background:var(--cream); }
+.price-single{ max-width:440px; margin:0 auto; }
+.price-card{ background:var(--forest); color:var(--cream); border-radius:20px; padding:34px 30px; box-shadow:var(--shadow); }
+.price-label{ font-size:12.5px; font-weight:700; letter-spacing:.07em; text-transform:uppercase; opacity:.75; }
+.price-big{ font-family:'Fraunces',serif; font-size:42px; font-weight:700; margin:6px 0 2px; color:var(--gold); }
+.price-sub{ font-size:13.5px; color:rgba(250,246,238,0.72); margin-bottom:20px; }
+.price-list{ list-style:none; margin:0; padding:0; display:flex; flex-direction:column; gap:11px; }
+.price-list li{ display:flex; justify-content:space-between; gap:14px; font-size:14px; padding-bottom:11px; border-bottom:1px dashed rgba(250,246,238,0.2); }
+.price-list li span:first-child{ color:rgba(250,246,238,0.75); }
+.price-list li span:last-child{ font-weight:700; color:var(--white); }
+.price-free{ color:#8FD8A8 !important; }
+.promo-badges{ display:flex; flex-wrap:wrap; gap:8px; margin-top:18px; }
+.promo-badge{ display:flex; align-items:center; gap:7px; background:rgba(221,163,63,0.18); color:var(--gold); border:1px solid rgba(221,163,63,0.45); padding:7px 12px; border-radius:999px; font-size:12.5px; font-weight:700; }
+.promo-badge svg{ width:14px; height:14px; }
+.price-card .btn{ margin-top:22px; }
+.trust-row{ display:flex; flex-wrap:wrap; justify-content:center; gap:10px; margin-top:28px; }
+.trust-row .chip{ background:var(--white); color:var(--forest); border-color:var(--line); }
+
+/* Footer */
+footer{ background:#16281D; color:rgba(250,246,238,0.65); padding:36px 0 96px; font-size:13px; }
+.footer-top{ display:flex; justify-content:space-between; gap:26px; flex-wrap:wrap; margin-bottom:20px; }
+.footer-logo{ display:flex; align-items:center; gap:9px; font-family:'Fraunces',serif; color:var(--cream); font-weight:500; font-size:15px; }
+.footer-logo svg{ width:22px; height:22px; color:var(--gold); }
+.footer-addr{ max-width:320px; line-height:1.7; }
+.footer-disclaimer{ border-top:1px solid rgba(250,246,238,0.14); padding-top:16px; font-size:11px; line-height:1.7; color:rgba(250,246,238,0.45); }
+
+/* Sticky CTA */
+.sticky-fab{ position:fixed; right:20px; bottom:20px; z-index:60; display:flex; align-items:center; justify-content:center; width:58px; height:58px; border-radius:50%; background:#25D366; box-shadow:0 12px 24px -8px rgba(0,0,0,0.4); border:none; cursor:pointer; }
+.sticky-fab svg{ width:28px; height:28px; color:#fff; }
+.sticky-fab .ring{ position:absolute; inset:0; border-radius:50%; border:2px solid rgba(37,211,102,0.55); animation:ring 2.2s ease-out infinite; }
+@keyframes ring{ 0%{ transform:scale(1); opacity:.8;} 100%{ transform:scale(1.6); opacity:0;} }
+.sticky-bar{ display:none; position:fixed; left:0; right:0; bottom:0; z-index:59; background:var(--forest); color:var(--cream); padding:10px 16px; align-items:center; justify-content:space-between; gap:12px; box-shadow:0 -8px 24px -10px rgba(0,0,0,0.4); }
+.sticky-bar .sb-text{ font-size:12px; line-height:1.35; }
+.sticky-bar .sb-text b{ display:block; font-family:'Fraunces',serif; font-size:14px; color:var(--gold); }
+.sticky-bar .btn{ padding:10px 16px; font-size:13px; white-space:nowrap; }
+@media(max-width:720px){ .sticky-fab{ display:none; } .sticky-bar{ display:flex; } body{ padding-bottom:70px; } }
+@media (prefers-reduced-motion: reduce){ html{ scroll-behavior:auto; } .hl svg path, .sticky-fab .ring{ transition:none; animation:none; } }
+</style>
+</head>
+<body>
+
+<div class="topbar">
+  <div class="topbar-inner">
+    <div class="topbar-logo"><img src="__LOGO_BASE64__" alt="Logo Palmera Residence" width="110" height="48"></div>
+    <a href="#" class="btn" onclick="sendWA('Halo Kak, saya mau tanya-tanya soal Palmera Residence Kabat.', 'Lead', 'Topbar CTA'); return false;">Tanya via WhatsApp</a>
+  </div>
+</div>
+
+<!-- ================= HERO (thesis + pain + lokasi + urgency, semua ringkas) ================= -->
+<header class="hero">
+  <div class="hero-bg">
+    <img src="https://images.unsplash.com/photo-1513584684374-8bab748fbf90?auto=format&fit=crop&w=1600&q=65" alt="Fasad rumah American modern Palmera Residence" fetchpriority="high" width="1600" height="1000">
+  </div>
+  <div class="container">
+    <div class="hero-content">
+      <div class="eyebrow">Rumah Subsidi yang Tidak Terlihat Seperti Rumah Subsidi</div>
+      <h1>Rumah Subsidi Rasa <span class="hl">American Modern<svg viewBox="0 0 300 30" preserveAspectRatio="none"><path d="M4,20 Q80,6 150,16 T296,12"/></svg></span>.</h1>
+      <p class="lead">Mulai booking Rp500 ribu. Tipe 30/72 di Kabat — 1 menit dari RSI Fatimah, 10 menit dari pusat kota Banyuwangi.</p>
+      <p class="pain">Selagi harga tanah terus naik dan DP rumah biasa makin berat, harga di sini tetap sesuai skema subsidi resmi pemerintah.</p>
+      <div class="hero-chips">
+        <span class="chip">SHM per unit</span>
+        <span class="chip">Cicilan mulai <b>Rp1 jutaan</b></span>
+        <span class="chip">Bebas biaya KPR/AJB/BPHTB</span>
+      </div>
+      <div class="hero-stock">
+        <div class="lbl"><span>43 unit terjual</span><span>Sisa 70 dari 113 unit</span></div>
+        <div class="bar"><div class="fill"></div></div>
+      </div>
+      <a href="#" class="btn btn-primary" onclick="sendWA('Halo Kak Raju, saya mau cek kelayakan KPR untuk Palmera Residence Kabat (booking mulai Rp500rb, tipe 30/72). Mohon dibantu ya.', 'Lead', 'Hero CTA'); return false;">
+        <svg viewBox="0 0 24 24" fill="currentColor"><path d="M17.5 14.4c-.3-.1-1.7-.8-2-.9-.3-.1-.5-.1-.6.1-.2.3-.7.9-.9 1-.2.2-.3.2-.6.1-.3-.1-1.3-.5-2.4-1.5-.9-.8-1.5-1.8-1.7-2.1-.2-.3 0-.5.1-.6.1-.1.3-.3.4-.5.1-.1.2-.3.3-.4.1-.2 0-.3 0-.5-.1-.1-.6-1.5-.8-2-.2-.5-.4-.5-.6-.5h-.5c-.2 0-.5.1-.7.3-.2.3-1 1-1 2.3s1 2.7 1.1 2.9c.1.2 2 3.1 4.9 4.3.7.3 1.2.5 1.6.6.7.2 1.3.2 1.8.1.5-.1 1.7-.7 1.9-1.4.2-.7.2-1.2.2-1.4-.1-.1-.3-.2-.5-.3z"/><path d="M12 2C6.5 2 2 6.5 2 12c0 1.9.5 3.7 1.5 5.3L2 22l4.8-1.5C8.3 21.5 10.1 22 12 22c5.5 0 10-4.5 10-10S17.5 2 12 2zm0 18c-1.7 0-3.4-.5-4.8-1.3l-.3-.2-3.2 1 1-3.1-.2-.3C3.5 15 3 13.5 3 12c0-5 4-9 9-9s9 4 9 9-4 9-9 9z"/></svg>
+        Cek Kelayakan KPR Saya
+      </a>
+      <p class="hero-micro">Dibalas rata-rata dalam 5 menit · Konsultasi online gratis 24 jam</p>
+    </div>
+  </div>
+</header>
+
+<!-- ================= INTRO / GALLERY (fokus visual + spek & legalitas dipadatkan jadi chip) ================= -->
+<section class="intro">
+  <div class="container">
+    <div class="center">
+      <div class="eyebrow">Kenalkan, Palmera Residence Kabat</div>
+      <h2 style="font-size:clamp(24px,3.4vw,32px);">Begini Wujud Rumah Anda</h2>
+      <p style="font-size:13px;color:#6b7568;margin-top:-10px;">Geser foto ke kiri atau kanan untuk melihat detail lainnya.</p>
+    </div>
+    <div class="gallery-wrap" id="palmeraGallery" aria-label="Galeri Palmera Residence">
+      <div class="gallery-counter" id="galleryCounter" aria-live="polite">1 / 6</div>
+
+      <button class="gallery-arrow prev" type="button" aria-label="Foto sebelumnya" onclick="galleryPrev()">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M15 18l-6-6 6-6"/>
+        </svg>
+      </button>
+
+      <div class="gallery-viewport" id="galleryViewport">
+        <div class="gallery-track" id="galleryTrack">
+          <!--
+            GANTI URL FOTO DI BAWAH DENGAN FOTO ASLI PALMERA RESIDENCE.
+            Anda bisa menambah slide sebanyak yang Anda mau dengan format .g-item yang sama.
+            Untuk hasil terbaik, gunakan foto landscape dengan rasio sekitar 16:9 atau 4:3.
+          -->
+
+          <div class="g-item">
+            <img src="https://images.unsplash.com/photo-1513584684374-8bab748fbf90?auto=format&fit=crop&w=1400&q=75"
+                 alt="Fasad American modern Palmera Residence" loading="eager" width="1400" height="788">
+            <div class="g-cap">Fasad American Modern — bukan template rumah subsidi biasa</div>
+          </div>
+
+          <div class="g-item">
+            <img src="https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1400&q=75"
+                 alt="Interior rumah modern Palmera Residence" loading="lazy" width="1400" height="788">
+            <div class="g-cap">Interior modern untuk rumah pertama yang terasa lebih premium</div>
+          </div>
+
+          <div class="g-item">
+            <img src="https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=1400&q=75"
+                 alt="Ruang keluarga rumah Palmera Residence" loading="lazy" width="1400" height="788">
+            <div class="g-cap">Ruang keluarga yang nyaman untuk tumbuh bersama keluarga</div>
+          </div>
+
+          <div class="g-item">
+            <img src="https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=1400&q=75"
+                 alt="Dapur rumah modern Palmera Residence" loading="lazy" width="1400" height="788">
+            <div class="g-cap">Desain interior modern yang fungsional untuk kehidupan sehari-hari</div>
+          </div>
+
+          <div class="g-item">
+            <img src="https://images.unsplash.com/photo-1600607688969-a5bfcd646154?auto=format&fit=crop&w=1400&q=75"
+                 alt="Kamar tidur rumah Palmera Residence" loading="lazy" width="1400" height="788">
+            <div class="g-cap">Kamar tidur untuk beristirahat dengan nyaman</div>
+          </div>
+
+          <div class="g-item">
+            <img src="https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1400&q=75"
+                 alt="Area rumah modern Palmera Residence" loading="lazy" width="1400" height="788">
+            <div class="g-cap">Bayangkan rumah pertama Anda dengan tampilan yang berbeda</div>
+          </div>
+        </div>
+      </div>
+
+      <button class="gallery-arrow next" type="button" aria-label="Foto berikutnya" onclick="galleryNext()">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M9 18l6-6-6-6"/>
+        </svg>
+      </button>
+
+      <div class="gallery-dots" id="galleryDots" aria-label="Pilih foto"></div>
+    </div>
+    <div class="chip-cloud">
+      <span class="chip">Tipe 30/72</span>
+      <span class="chip">2 Kamar Tidur</span>
+      <span class="chip">Carport</span>
+      <span class="chip">Listrik 1300 Watt</span>
+      <span class="chip">Air PDAM 24 Jam</span>
+      <span class="chip">Keamanan One-Gate 24 Jam</span>
+      <span class="chip">SHM Per Unit</span>
+      <span class="chip">SPPT/PBB Atas Nama Anda</span>
+      <span class="chip">Mushola &amp; Taman</span>
+    </div>
+    <p class="legal-note">*Gambar merupakan ilustrasi, bukan bagian dari kontrak jual beli. Dokumen legalitas (SHM, NIB, izin) dapat diperiksa langsung saat konsultasi.</p>
+  </div>
+</section>
+
+<!-- ================= PRICING (KPR subsidi saja) ================= -->
+<section class="pricing">
+  <div class="container">
+    <div class="center">
+      <div class="eyebrow">Harga &amp; Skema Pembayaran</div>
+      <h2 style="font-size:clamp(24px,3.4vw,32px);">KPR Subsidi, Cicilan Tetap Sampai Lunas</h2>
+    </div>
+    <div class="price-single">
+      <div class="price-card">
+        <div class="price-label">Pembayaran KPR Subsidi</div>
+        <div class="price-big">Rp166 Juta</div>
+        <div class="price-sub">Cicilan tetap sampai lunas, 20 tahun</div>
+        <ul class="price-list">
+          <li><span>Booking fee</span><span>Rp500 ribu</span></li>
+          <li><span>DP</span><span>Rp5 jutaan (cicil 6×)</span></li>
+          <li><span>Angsuran / bulan</span><span>Rp1 jutaan flat</span></li>
+          <li><span>KPR, AJB-BN &amp; BPHTB</span><span class="price-free">Free</span></li>
+        </ul>
+        <div class="promo-badges">
+          <span class="promo-badge"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.2 6.8H21l-5.6 4.1 2.1 6.9L12 15.8 6.5 19.8l2.1-6.9L3 8.8h6.8z"/></svg> Subsidi angsuran 50% thn pertama</span>
+          <span class="promo-badge"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.2 6.8H21l-5.6 4.1 2.1 6.9L12 15.8 6.5 19.8l2.1-6.9L3 8.8h6.8z"/></svg> Bonus AC + WiFi 6 bln</span>
+        </div>
+        <a href="#" class="btn btn-primary btn-block" onclick="sendWA('Halo Kak Raju, saya ingin tanya skema pembayaran & cek kelayakan KPR untuk Palmera Residence Kabat. Mohon dibantu ya.', 'InitiateCheckout', 'Pricing CTA'); return false;">Cek Kelayakan KPR Saya</a>
+      </div>
+    </div>
+    <div class="trust-row">
+      <span class="chip">SHM Per Unit</span>
+      <span class="chip">Air PDAM 24 Jam</span>
+      <span class="chip">Keamanan One-Gate</span>
+      <span class="chip">Bebas Biaya Tambahan</span>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="container">
+    <div class="footer-top">
+      <div>
+        <div class="footer-logo"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C9 6 6 9 6 13a6 6 0 0012 0c0-4-3-7-6-11z"/></svg> Palmera Residence</div>
+        <p style="margin-top:12px; max-width:260px;">Tropical Elegance, Modern Living — Temukan Ketenangan di Palmera.</p>
+      </div>
+      <div class="footer-addr">
+        <strong style="color:var(--cream);">Kantor Pemasaran</strong><br>
+        Komplek Perumahan Palmera Residence<br>
+        Dadapan, Kabat, Banyuwangi Kota<br>
+        Konsultasi online gratis 24 jam
+      </div>
+    </div>
+    <div class="footer-disclaimer">
+      Disclaimer: Halaman ini merupakan alat bantu pemasaran dan penjualan, bukan bagian dari kontrak jual beli. Desain, harga, dan promo dapat berubah sewaktu-waktu tanpa pemberitahuan dan merupakan hak pengembang.
+    </div>
+  </div>
+</footer>
+
+<button class="sticky-fab" onclick="sendWA('Halo Kak Raju, saya mau tanya-tanya soal Palmera Residence Kabat.', 'Lead', 'Sticky FAB');" aria-label="Tanya via WhatsApp">
+  <span class="ring"></span>
+  <svg viewBox="0 0 24 24" fill="currentColor"><path d="M17.5 14.4c-.3-.1-1.7-.8-2-.9-.3-.1-.5-.1-.6.1-.2.3-.7.9-.9 1-.2.2-.3.2-.6.1-.3-.1-1.3-.5-2.4-1.5-.9-.8-1.5-1.8-1.7-2.1-.2-.3 0-.5.1-.6.1-.1.3-.3.4-.5.1-.1.2-.3.3-.4.1-.2 0-.3 0-.5-.1-.1-.6-1.5-.8-2-.2-.5-.4-.5-.6-.5h-.5c-.2 0-.5.1-.7.3-.2.3-1 1-1 2.3s1 2.7 1.1 2.9c.1.2 2 3.1 4.9 4.3.7.3 1.2.5 1.6.6.7.2 1.3.2 1.8.1.5-.1 1.7-.7 1.9-1.4.2-.7.2-1.2.2-1.4-.1-.1-.3-.2-.5-.3z"/><path d="M12 2C6.5 2 2 6.5 2 12c0 1.9.5 3.7 1.5 5.3L2 22l4.8-1.5C8.3 21.5 10.1 22 12 22c5.5 0 10-4.5 10-10S17.5 2 12 2zm0 18c-1.7 0-3.4-.5-4.8-1.3l-.3-.2-3.2 1 1-3.1-.2-.3C3.5 15 3 13.5 3 12c0-5 4-9 9-9s9 4 9 9-4 9-9 9z"/></svg>
+</button>
+<div class="sticky-bar">
+  <div class="sb-text">Booking mulai<b>Rp500 ribu</b></div>
+  <a href="#" class="btn btn-primary" onclick="sendWA('Halo Kak Raju, saya mau tanya-tanya soal Palmera Residence Kabat.', 'Lead', 'Sticky Bar'); return false;">Tanya via WA</a>
+</div>
+
+<script>
+/* Tambahkan nomor lain ke array ini untuk pembagian lead round-robin */
+const WA_NUMBERS = [ { name: 'Raju', number: '628213653821' } ];
+let waIndex = 0;
+function getWaNumber(){ const n = WA_NUMBERS[waIndex % WA_NUMBERS.length]; waIndex++; return n.number; }
+function sendWA(message, eventName, ctaLabel){
+  if (typeof fbq === 'function') { fbq('track', eventName, { content_name: ctaLabel, content_category: 'Real Estate - Subsidized Housing' }); }
+  const url = 'https://wa.me/' + getWaNumber() + '?text=' + encodeURIComponent(message);
+  window.open(url, '_blank');
+}
+
+/* =========================================================
+   PALMERA PHOTO CAROUSEL
+   - Swipe / drag kiri-kanan
+   - Tombol prev/next
+   - Autoplay
+   - Infinite loop
+   - Pause saat user hover / touch
+   ========================================================= */
+(function initGallery(){
+  const viewport = document.getElementById('galleryViewport');
+  const track = document.getElementById('galleryTrack');
+  const counter = document.getElementById('galleryCounter');
+  const dotsWrap = document.getElementById('galleryDots');
+  if (!viewport || !track) return;
+
+  const originalSlides = Array.from(track.querySelectorAll('.g-item'));
+  const total = originalSlides.length;
+  if (!total) return;
+
+  // Clone first and last slide for seamless infinite looping.
+  const firstClone = originalSlides[0].cloneNode(true);
+  const lastClone = originalSlides[total - 1].cloneNode(true);
+  track.appendChild(firstClone);
+  track.insertBefore(lastClone, track.firstChild);
+
+  let index = 1;
+  let startX = 0;
+  let currentX = 0;
+  let isDragging = false;
+  let startTranslate = 0;
+  let autoplayTimer = null;
+  let transitionTimer = null;
+
+  function getWidth(){
+    return viewport.getBoundingClientRect().width;
+  }
+
+  function realIndex(){
+    return (index - 1 + total) % total;
+  }
+
+  function render(withTransition = true){
+    track.style.transition = withTransition ? 'transform .42s cubic-bezier(.22,.8,.25,1)' : 'none';
+    track.style.transform = `translate3d(${-index * getWidth()}px,0,0)`;
+
+    const active = realIndex();
+    counter.textContent = `${active + 1} / ${total}`;
+
+    dotsWrap.querySelectorAll('.gallery-dot').forEach((dot, i)=>{
+      dot.classList.toggle('active', i === active);
+      dot.setAttribute('aria-current', i === active ? 'true' : 'false');
+    });
+  }
+
+  function buildDots(){
+    for(let i = 0; i < total; i++){
+      const dot = document.createElement('button');
+      dot.type = 'button';
+      dot.className = 'gallery-dot' + (i === 0 ? ' active' : '');
+      dot.setAttribute('aria-label', `Tampilkan foto ${i + 1}`);
+      dot.onclick = ()=>{
+        stopAutoplay();
+        index = i + 1;
+        render(true);
+        startAutoplay();
+      };
+      dotsWrap.appendChild(dot);
+    }
+  }
+
+  function normalizeLoop(){
+    if(index === total + 1){
+      index = 1;
+      render(false);
+    } else if(index === 0){
+      index = total;
+      render(false);
+    }
+  }
+
+  window.galleryNext = function(){
+    stopAutoplay();
+    index++;
+    render(true);
+    clearTimeout(transitionTimer);
+    transitionTimer = setTimeout(normalizeLoop, 450);
+    startAutoplay();
+  };
+
+  window.galleryPrev = function(){
+    stopAutoplay();
+    index--;
+    render(true);
+    clearTimeout(transitionTimer);
+    transitionTimer = setTimeout(normalizeLoop, 450);
+    startAutoplay();
+  };
+
+  function startAutoplay(){
+    clearInterval(autoplayTimer);
+    autoplayTimer = setInterval(()=>{
+      index++;
+      render(true);
+      clearTimeout(transitionTimer);
+      transitionTimer = setTimeout(normalizeLoop, 450);
+    }, 4500);
+  }
+
+  function stopAutoplay(){
+    clearInterval(autoplayTimer);
+  }
+
+  // Mouse drag + touch swipe.
+  viewport.addEventListener('pointerdown', (e)=>{
+    if(e.pointerType === 'mouse' && e.button !== 0) return;
+    isDragging = true;
+    startX = e.clientX;
+    currentX = startX;
+    startTranslate = -index * getWidth();
+    viewport.classList.add('is-dragging');
+    stopAutoplay();
+    viewport.setPointerCapture?.(e.pointerId);
+    track.style.transition = 'none';
+  });
+
+  viewport.addEventListener('pointermove', (e)=>{
+    if(!isDragging) return;
+    currentX = e.clientX;
+    const delta = currentX - startX;
+    track.style.transform = `translate3d(${startTranslate + delta}px,0,0)`;
+  });
+
+  function endDrag(){
+    if(!isDragging) return;
+    isDragging = false;
+    viewport.classList.remove('is-dragging');
+    const delta = currentX - startX;
+    const threshold = Math.min(90, getWidth() * 0.18);
+
+    if(Math.abs(delta) > threshold){
+      if(delta < 0) index++;
+      else index--;
+    }
+
+    render(true);
+    clearTimeout(transitionTimer);
+    transitionTimer = setTimeout(normalizeLoop, 450);
+    startAutoplay();
+  }
+
+  viewport.addEventListener('pointerup', endDrag);
+  viewport.addEventListener('pointercancel', endDrag);
+  viewport.addEventListener('pointerleave', ()=>{
+    if(isDragging) endDrag();
+  });
+
+  // Keyboard accessibility.
+  viewport.setAttribute('tabindex', '0');
+  viewport.addEventListener('keydown', (e)=>{
+    if(e.key === 'ArrowRight'){ e.preventDefault(); galleryNext(); }
+    if(e.key === 'ArrowLeft'){ e.preventDefault(); galleryPrev(); }
+  });
+
+  // Pause while hovering on desktop.
+  viewport.addEventListener('mouseenter', stopAutoplay);
+  viewport.addEventListener('mouseleave', startAutoplay);
+
+  window.addEventListener('resize', ()=>render(false));
+
+  buildDots();
+  render(false);
+  startAutoplay();
+})();
+
+const hlObserver = new IntersectionObserver((entries)=>{
+  entries.forEach(e=>{ if(e.isIntersecting){ e.target.classList.add('in-view'); hlObserver.unobserve(e.target); } });
+}, { threshold: 0.6 });
+document.querySelectorAll('.hl').forEach(el => hlObserver.observe(el));
+</script>
+</body>
+</html>
